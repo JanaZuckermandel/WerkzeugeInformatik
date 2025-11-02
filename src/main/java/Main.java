@@ -9,6 +9,7 @@ public class Main {
 
         Car car4 = new Car("yellow", "Renault", 4);
         Car car5 = new Car ("white", "Ford", 5);
+        Car car6 = new Car ("white", "Ford", 5);
         
         //An dieser Stelle befindet sich nun ein Array
         //Dieses Array wird mit einem Sortieralgorithmus sortiert
